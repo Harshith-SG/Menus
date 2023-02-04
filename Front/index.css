@@ -1,0 +1,307 @@
+body {
+    margin: 0;
+    line-height: normal;
+  }
+  .iphone-14-30-child {
+    position: absolute;
+    top: 0;
+    left: 1px;
+    background-color: var(--color-yellowgreen);
+    width: 390px;
+    height: 94px;
+  }
+  .hostel-mess {
+    top: calc(50% - 421px);
+    left: 99px;
+    width: 220px;
+    height: 46px;
+  }
+  .choose-the-day,
+  .div,
+  .hostel-mess {
+    position: absolute;
+    display: inline-block;
+  }
+  .div {
+    top: 53px;
+    left: 157px;
+    font-size: 15px;
+    width: 75px;
+    height: 21px;
+  }
+  .choose-the-day {
+    top: 126px;
+    left: 31px;
+    font-size: 40px;
+    font-weight: 800;
+    color: var(--color-white);
+    text-align: center;
+    width: 326px;
+  }
+  .group-child,
+  .group-item {
+    position: absolute;
+    top: calc(50% - 39.5px);
+    left: calc(50% - 149.5px);
+    border-radius: var(--br-md);
+    background-color: var(--color-yellowgreen);
+    width: 299px;
+    height: 79px;
+  }
+  .group-item {
+    top: calc(50% - 28.5px);
+    left: calc(50% - 131.5px);
+    background-color: var(--color-white);
+    width: 263px;
+    height: 58px;
+  }
+  .sunday {
+    position: absolute;
+    top: calc(50% - 23.5px);
+    left: calc(50% - 58.5px);
+    font-size: var(--font-size-base);
+    font-family: var(--font-inter);
+    color: var(--color-black);
+    text-align: left;
+    display: inline-block;
+    width: 205px;
+    height: 43px;
+    /* position: absolute;
+    top: 18px;
+    left: 57px;
+    font-size: var(--font-size-base);
+    font-family: var(--font-inter);
+    color: var(--color-black);
+    text-align: left;
+    display: inline-block;
+    width: 205px;
+    height: 43px; */
+  }
+  .rectangle-parent {
+    cursor: pointer;
+    border: 0;
+    padding: 0;
+    background-color: transparent;
+    position: absolute;
+    top: calc(50% - 194px);
+    left: calc(50% - 145px);
+    width: 299px;
+    height: 79px;
+  }
+  .group-inner,
+  .rectangle-div {
+    position: absolute;
+    top: 0;
+    left: 0.45px;
+    border-radius: var(--br-md);
+    background-color: var(--color-yellowgreen);
+    width: 298.78px;
+    height: 79px;
+    transform: rotate(0.33deg);
+    transform-origin: 0 0;
+  }
+  .rectangle-div {
+    top: 11.1px;
+    left: 17.37px;
+    background-color: var(--color-white);
+    width: 264.8px;
+    height: 58px;
+  }
+  .monday {
+    position: absolute;
+    top: 19.85px;
+    left: 81.22px;
+    font-size: var(--font-size-base);
+    font-family: var(--font-inter);
+    color: var(--color-black);
+    text-align: left;
+    display: inline-block;
+    width: 137px;
+    height: 43px;
+  }
+  .rectangle-group {
+    cursor: pointer;
+    border: 0;
+    padding: 0;
+    background-color: transparent;
+    position: absolute;
+    top: 312.15px;
+    left: 49.78px;
+    width: 299.22px;
+    height: 80.7px;
+  }
+  .group-child1,
+  .group-child2 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: var(--br-md);
+    background-color: var(--color-yellowgreen);
+    width: 299px;
+    height: 79px;
+  }
+  .group-child2 {
+    top: 11px;
+    left: 17px;
+    background-color: var(--color-white);
+    width: 265px;
+    height: 58px;
+  }
+  .wednesday {
+    position: absolute;
+    top: 18px;
+    left: 57px;
+    font-size: var(--font-size-base);
+    font-family: var(--font-inter);
+    color: var(--color-black);
+    text-align: left;
+    display: inline-block;
+    width: 205px;
+    height: 43px;
+  }
+  .iphone-14-30-inner,
+  .rectangle-container {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 299px;
+    height: 79px;
+  }
+  .iphone-14-30-inner {
+    cursor: pointer;
+    border: 0;
+    padding: 0;
+    background-color: transparent;
+    top: 483px;
+    left: 50px;
+  }
+  .group-child4 {
+    position: absolute;
+    top: 11px;
+    left: 18px;
+    border-radius: var(--br-md);
+    background-color: var(--color-white);
+    width: 263px;
+    height: 58px;
+  }
+  .saturday {
+    position: absolute;
+    top: 18px;
+    left: 75px;
+    font-size: var(--font-size-base);
+    font-family: var(--font-inter);
+    color: var(--color-black);
+    text-align: left;
+    display: inline-block;
+    width: 169px;
+    height: 43px;
+  }
+  .group-button {
+    cursor: pointer;
+    border: 0;
+    padding: 0;
+    background-color: transparent;
+    position: absolute;
+    top: 748px;
+    left: 50px;
+    width: 299px;
+    height: 79px;
+  }
+  .group-child5,
+  .group-child6 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: var(--br-md);
+    background-color: var(--color-yellowgreen);
+    width: 301px;
+    height: 79px;
+  }
+  .group-child6 {
+    top: 11px;
+    left: 17px;
+    background-color: var(--color-white);
+    width: 267px;
+    height: 58px;
+  }
+  .friday {
+    position: absolute;
+    top: 18px;
+    left: 94px;
+    font-size: var(--font-size-base);
+    font-family: var(--font-inter);
+    color: var(--color-black);
+    text-align: left;
+    display: inline-block;
+    width: 119px;
+    height: 43px;
+  }
+  .rectangle-parent1 {
+    cursor: pointer;
+    border: 0;
+    padding: 0;
+    background-color: transparent;
+    position: absolute;
+    top: 660px;
+    left: 52px;
+    width: 301px;
+    height: 79px;
+  }
+  .thursday {
+    position: absolute;
+    top: 18px;
+    left: 68px;
+    font-size: var(--font-size-base);
+    font-family: var(--font-inter);
+    color: var(--color-black);
+    text-align: left;
+    display: inline-block;
+    width: 164px;
+    height: 43px;
+  }
+  .rectangle-parent2 {
+    cursor: pointer;
+    border: 0;
+    padding: 0;
+    background-color: transparent;
+    position: absolute;
+    top: 571px;
+    left: 52px;
+    width: 301px;
+    height: 79px;
+  }
+  .tuesday {
+    position: absolute;
+    top: 18px;
+    left: 73px;
+    font-size: var(--font-size-base);
+    font-family: var(--font-inter);
+    color: var(--color-black);
+    text-align: left;
+    display: inline-block;
+    width: 150px;
+    height: 43px;
+  }
+  .rectangle-parent3 {
+    cursor: pointer;
+    border: 0;
+    padding: 0;
+    background-color: transparent;
+    position: absolute;
+    top: 398px;
+    left: 52px;
+    width: 301px;
+    height: 79px;
+  }
+  .iphone-14-30 {
+    position: relative;
+    background-color: #29413b;
+    width: 100%;
+    height: 844px;
+    overflow: hidden;
+    text-align: left;
+    font-size: var(--font-size-base);
+    color: var(--color-black);
+    font-family: var(--font-inter);
+  }
+  

@@ -1,0 +1,144 @@
+body {
+    margin: 0;
+    line-height: normal;
+  }
+  .iphone-14-21-child {
+    position: absolute;
+    top: 0;
+    left: 1px;
+    background-color: #c5dc2e;
+    width: 390px;
+    height: 94px;
+  }
+  .sunday {
+    top: calc(50% - 425.5px);
+    left: 134px;
+    color: var(--color-black);
+    width: 144px;
+    height: 46px;
+  }
+  .aaj-ka-menu,
+  .breakfast,
+  .div,
+  .sunday {
+    position: absolute;
+    display: inline-block;
+  }
+  .div {
+    top: 53px;
+    left: 157px;
+    font-size: 15px;
+    color: var(--color-black);
+    width: 75px;
+    height: 21px;
+  }
+  .aaj-ka-menu,
+  .breakfast {
+    top: 262px;
+    left: 84px;
+    font-size: 32px;
+    width: 223px;
+    height: 52px;
+  }
+  .breakfast {
+    top: 147px;
+    left: 99px;
+    font-size: 40px;
+    width: 191px;
+    height: 104px;
+  }
+  .p {
+    margin-block-start: 0;
+    margin-block-end: 0;
+  }
+  .pickle-butter-eggs {
+    margin: 0;
+  }
+  .parantha-aloopyaaz-sandwich-container {
+    position: absolute;
+    top: 337px;
+    left: 92px;
+    font-size: var(--font-size-base);
+    display: inline-block;
+    width: 236px;
+    height: 138px;
+  }
+  .group-child {
+    cursor: pointer;
+    border: 0;
+    padding: 0;
+    background-color: var(--color-gainsboro);
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: var(--br-md);
+    width: 109px;
+    height: 47px;
+    /* transition: 0.5s; */
+  }
+  .group-child:active{
+    background-color: red;
+    /* transition: 0.5S; */
+  }
+  .yes {
+    position: absolute;
+    top: calc(50% - 12.5px);
+    left: calc(50% - 23.5px);
+    font-size: var(--font-size-base);
+    font-family: var(--font-inter);
+    color: var(--color-black);
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 46px;
+    height: 25px;
+  }
+  .rectangle-parent {
+    cursor: pointer;
+    border: 0;
+    padding: 0;
+    background-color: transparent;
+    position: absolute;
+    top: 789px;
+    left: 61px;
+    width: 109px;
+    height: 47px;
+  }
+  .no {
+    position: absolute;
+    top: calc(50% - 11.5px);
+    left: calc(50% - 22.5px);
+    font-size: var(--font-size-base);
+    font-family: var(--font-inter);
+    color: var(--color-black);
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 44px;
+    height: 27px;
+  }
+  .rectangle-group {
+    cursor: pointer;
+    border: 0;
+    padding: 0;
+    background-color: transparent;
+    position: absolute;
+    top: 789px;
+    left: 249px;
+    width: 109px;
+    height: 47px;
+  }
+  .iphone-14-21 {
+    position: relative;
+    background-color: #29413b;
+    width: 100%;
+    height: 867px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 36px;
+    color: var(--color-white);
+    font-family: var(--font-inter);
+  }
+  
